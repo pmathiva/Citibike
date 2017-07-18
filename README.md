@@ -2,7 +2,7 @@
 --------------------------------------------------
 Analysis of Citibike Rideshare program for 2016
 --------------------------------------------------
-Data: Data of all rides in the monthsJune - August in 2016
+Data: Data of all rides in the months June - August in 2016
   
   The script performs various exploratory analysis on the citibike data to gain insights and to answer business questions to drive the   decision making process. Graphs are plotted using Google maps to analyze the ride pattern.
   
