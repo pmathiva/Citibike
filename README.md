@@ -17,12 +17,19 @@ Data: Data of all rides in the months June - August in 2016
   Results:
   ----------
 •	The month having the most utilization/frequency of services (bike sharing) was the month of August.
+
 •	The stations with the most traffic were Pershing Square North, and West Street & Chambers Street.
+
 •	Males (1) were the majority users for this program, greater than the other two demographics put together.
+
 •	An average user rode a distance on 1.169 miles.
+
 •	Central Park & 6th Avenue, along with Yankee Ferry Terminal are the stations having the strongest bonds.
+
 •	5-6 PM was the most frequent utilization of the service, second was 8-9 AM.
+
 •	2.2% of the rides ended, and originated at the same station.
+
 •	As per the bike-id (a serial number unique to every cycle of the Citibike inventory (bicycles)), a bikeshare cycle was moved approximately 400 times over the period of 92 days.
 
 Conclusion and Recommendations:
